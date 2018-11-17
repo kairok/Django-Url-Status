@@ -1,4 +1,4 @@
-Django 1.19 Site
+Django 1.9 Site
 
 Site check URL status code
 
